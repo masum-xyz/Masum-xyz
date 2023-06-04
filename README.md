@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moh Ma'sum Safrulihsan</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">A passionate Full-Stack Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masum-xd&label=Profile%20views&color=00ff04&style=flat" alt="masum-xd" /> </p>
 
