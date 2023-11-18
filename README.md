@@ -39,13 +39,13 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Masum-XD&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Masum-XD&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Masum-XD&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Mmasum-xyz&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=masum-xyz&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masum-xyz&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Masum-XD&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=masum-xyz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 💰 You can help me by Donating
 <p><a href="https://saweria.co/Masumxyz"> <img align="center" src="https://pustakabukubekas.files.wordpress.com/2021/09/sawer.png" height="50" width="210" alt="Masumxyz" /></a></p><br><br>
