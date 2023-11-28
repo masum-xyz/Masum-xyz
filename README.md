@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moh Ma'sum Safrulihsan</h1>
-<h3 align="center">A passionate Full-Stack Developer from Indonesia</h3>
+<h3 align="center">A passionate Front-End Developer from Indonesia</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Masum-XD&icon=0&color=0)](https://visitcount.itsvg.in)
 
