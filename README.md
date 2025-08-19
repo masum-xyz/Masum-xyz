@@ -1,5 +1,5 @@
 <h1 align="center">💻 Moh Ma'sum Safrulihsan</h1>
-<h3 align="center">Senior Full-Stack Developer | System Architect | Tech Innovator</h3>
+<h3 align="center">Full-Stack Developer | Web Enthusiast | Digital Creator</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Banner" />
